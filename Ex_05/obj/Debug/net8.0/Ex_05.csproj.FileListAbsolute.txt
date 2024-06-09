@@ -1,0 +1,14 @@
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\DesafioDotNet\Ex_05\obj\Debug\net8.0\Ex_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\DesafioDotNet\Ex_05\obj\Debug\net8.0\Ex_05.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\DesafioDotNet\Ex_05\obj\Debug\net8.0\Ex_05.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\DesafioDotNet\Ex_05\obj\Debug\net8.0\Ex_05.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\DesafioDotNet\Ex_05\bin\Debug\net8.0\Ex_05.exe
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\DesafioDotNet\Ex_05\bin\Debug\net8.0\Ex_05.deps.json
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\DesafioDotNet\Ex_05\bin\Debug\net8.0\Ex_05.runtimeconfig.json
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\DesafioDotNet\Ex_05\bin\Debug\net8.0\Ex_05.dll
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\DesafioDotNet\Ex_05\bin\Debug\net8.0\Ex_05.pdb
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\DesafioDotNet\Ex_05\obj\Debug\net8.0\Ex_05.dll
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\DesafioDotNet\Ex_05\obj\Debug\net8.0\refint\Ex_05.dll
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\DesafioDotNet\Ex_05\obj\Debug\net8.0\Ex_05.pdb
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\DesafioDotNet\Ex_05\obj\Debug\net8.0\Ex_05.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - SENAC - SP\Documentos\DesafioDotNet\Ex_05\obj\Debug\net8.0\ref\Ex_05.dll
